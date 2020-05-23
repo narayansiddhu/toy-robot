@@ -20,7 +20,7 @@ No installation needed. No changes will be made to your system.
 To get the application, just clone a repo, then `cd` its directory and you are ready to run the app:
 
 ```
-$ git clone git@github.com:narayansiddhu@gmail.com/toy-robot.git
+$ git clone https://github.com/narayansiddhu/toy-robot
 $ cd toy-robot
 ```
 
